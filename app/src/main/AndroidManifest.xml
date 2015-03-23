@@ -11,6 +11,10 @@
             android:name="com.whatatour.prova.Prova"
             android:label="@string/title_activity_prova" >
         </activity>
+        <activity
+            android:name=".toni"
+            android:label="@string/title_activity_toni" >
+        </activity>
     </application>
 
 </manifest>
